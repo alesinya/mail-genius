@@ -1,1 +1,1 @@
-##### [Mail-Genius](https://alesinya.github.io/mail-genius/index.html) - Click to view the project
+##### [Mail-Genius](https://alesinya.github.io/mail-genius) - Click to view the project
